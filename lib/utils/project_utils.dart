@@ -37,7 +37,7 @@ List<ProjectUtils> hobbyProjectUtils = [
       image: 'assets/projects/chatapp.jpg',
       title: 'Lets Chat',
       subtitle:
-      'A chatting app to communicate with your friends(Under Work)',
+      'A chatting app to communicate with your friends',
       Link:
       'https://apps.apple.com/tr/app/pocket-dictionary-1/id6447465115'),
 
