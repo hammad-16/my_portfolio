@@ -39,6 +39,6 @@ List<ProjectUtils> hobbyProjectUtils = [
       subtitle:
       'A chatting app to communicate with your friends',
       Link:
-      'https://apps.apple.com/tr/app/pocket-dictionary-1/id6447465115'),
+      'https://github.com/hammad-16/Lets-Chat'),
 
   ];
