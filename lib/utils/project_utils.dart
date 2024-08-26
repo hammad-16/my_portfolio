@@ -37,7 +37,7 @@ List<ProjectUtils> hobbyProjectUtils = [
       image: 'assets/projects/chatapp.jpg',
       title: 'Lets Chat',
       subtitle:
-      'A chatting app to communicate with your friends',
+      'A chatting app to communicate with your friends.',
       Link:
       'https://github.com/hammad-16/Lets-Chat'),
 
